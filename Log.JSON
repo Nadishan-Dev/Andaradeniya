@@ -6,10 +6,12 @@
   },
   {
     "userId": "nadishan",
-    "password": "dora2025"
+    "password": "dora2025",
+    "first_name": ""
   },
   {
     "userId": "admin",
-    "password": "neuro@corp"
+    "password": "neuro@corp",
+    "first_name": ""
   }
 ]
