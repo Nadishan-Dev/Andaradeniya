@@ -2,16 +2,16 @@
   {
     "userId": "a",
     "password": "a",
-    "first_name": "Nadishan"
+    "firstname": "Nadishan"
   },
   {
     "userId": "nadishan",
     "password": "dora2025",
-    "first_name": ""
+    "firstname": ""
   },
   {
     "userId": "admin",
     "password": "neuro@corp",
-    "first_name": ""
+    "firstname": ""
   }
 ]
