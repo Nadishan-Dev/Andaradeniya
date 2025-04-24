@@ -2,16 +2,22 @@
   {
     "userId": "a",
     "password": "a",
-    "firstname": "Nadishan"
+    "firstname": "Nadishan",
+    "lastname": "Danthanarayana",
+    "name": "Nadishan Danthanarayana"
   },
   {
     "userId": "nadishan",
     "password": "dora2025",
-    "firstname": ""
+    "firstname": "Nadishan",
+    "lastname": "Danthanarayana",
+    "name": "Nadishan Danthanarayana"
   },
   {
     "userId": "admin",
     "password": "neuro@corp",
-    "firstname": ""
+   "firstname": "Nadishan",
+    "lastname": "Danthanarayana",
+    "name": "Nadishan Danthanarayana"
   }
 ]
