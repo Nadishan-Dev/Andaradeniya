@@ -4,20 +4,113 @@
     "password": "a",
     "firstname": "Nadishan",
     "lastname": "Danthanarayana",
-    "name": "Nadishan Danthanarayana"
+    "name": "Nadishan Danthanarayana",
+    "month": [
+      {
+        "month": "January",
+        "kg": 124
+      },
+      {
+        "month": "February",
+        "kg": 156
+      },
+      {
+        "month": "March",
+        "kg": 187
+      },
+      {
+        "month": "April",
+        "kg": 210
+      },
+      {
+        "month": "May",
+        "kg": 178
+      },
+      {
+        "month": "June",
+        "kg": 165
+      },
+      {
+        "month": "July",
+        "kg": 145
+      },
+      {
+        "month": "August",
+        "kg": 198
+      },
+      {
+        "month": "September",
+        "kg": 225
+      },
+      {
+        "month": "October",
+        "kg": 240
+      },
+      {
+        "month": "November",
+        "kg": 193
+      },
+      {
+        "month": "December",
+        "kg": 167
+      }
+    ]
   },
   {
-    "userId": "nadishan",
-    "password": "dora2025",
-    "firstname": "Nadishan",
-    "lastname": "Danthanarayana",
-    "name": "Nadishan Danthanarayana"
-  },
-  {
-    "userId": "admin",
-    "password": "neuro@corp",
-   "firstname": "Nadishan",
-    "lastname": "Danthanarayana",
-    "name": "Nadishan Danthanarayana"
+    "userId": "b",
+    "password": "b",
+    "firstname": "John",
+    "lastname": "Smith",
+    "name": "John Smith",
+    "month": [
+      {
+        "month": "January",
+        "kg": 98
+      },
+      {
+        "month": "February",
+        "kg": 132
+      },
+      {
+        "month": "March",
+        "kg": 145
+      },
+      {
+        "month": "April",
+        "kg": 163
+      },
+      {
+        "month": "May",
+        "kg": 140
+      },
+      {
+        "month": "June",
+        "kg": 120
+      },
+      {
+        "month": "July",
+        "kg": 110
+      },
+      {
+        "month": "August",
+        "kg": 150
+      },
+      {
+        "month": "September",
+        "kg": 175
+      },
+      {
+        "month": "October",
+        "kg": 190
+      },
+      {
+        "month": "November",
+        "kg": 160
+      },
+      {
+        "month": "December",
+        "kg": 135
+      }
+    ]
   }
 ]
