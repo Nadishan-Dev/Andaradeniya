@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "userId": "1",
+    "password": "1",
+    "firstname": "1",
+    "lastname": "1",
+    "name": "1 1",
+    "factory": "Andaradeniya",
+    "registered": "2025-04-25T06:39:48.995Z",
+    "birthday": "2025-04-03",
+    "language": "English",
+    "role": "worker",
+    "contactNumber": "1",
+    "address": "1",
+    "notes": "",
+    "monthData": [],
+    "monthlyEarnings": {}
+  }
+]
