@@ -15,5 +15,22 @@
     "notes": "",
     "monthData": [],
     "monthlyEarnings": {}
+  },
+  {
+    "userId": "100000",
+    "password": "11111",
+    "firstname": "Nadishan",
+    "lastname": "Thimira",
+    "name": "Nadishan Thimira",
+    "factory": "Andaradeniya",
+    "registered": "2025-04-25T06:41:41.923Z",
+    "birthday": "2025-04-04",
+    "language": "English",
+    "role": "worker",
+    "contactNumber": "11",
+    "address": "112/1 Andaradeniya/deniyaya",
+    "notes": "",
+    "monthData": [],
+    "monthlyEarnings": {}
   }
 ]
