@@ -49,5 +49,22 @@
     "notes": "",
     "monthData": [],
     "monthlyEarnings": {}
+  },
+  {
+    "userId": "001",
+    "password": "001",
+    "firstname": "Chat",
+    "lastname": "GPT",
+    "name": "Chat GPT",
+    "factory": "Andaradeniya",
+    "registered": "2025-04-25T07:51:29.370Z",
+    "birthday": "2025-04-09",
+    "language": "English",
+    "role": "worker",
+    "contactNumber": "0714593031",
+    "address": "112/1 Andaradeniya/deniyaya",
+    "notes": "",
+    "monthData": [],
+    "monthlyEarnings": {}
   }
 ]
