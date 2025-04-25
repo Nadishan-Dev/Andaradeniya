@@ -1,3 +1,19 @@
 [
-
+  {
+    "userId": "123",
+    "password": "123",
+    "firstname": "Nadishan",
+    "lastname": "Danthanarayana",
+    "name": "Nadishan Danthanarayana",
+    "factory": "Andaradeniya",
+    "registered": "2025-04-25T05:23:09.402Z",
+    "birthday": "2006-08-30",
+    "language": "Sinhala",
+    "role": "admin",
+    "contactNumber": "0714593031",
+    "address": "112/1 Andaradeniya/deniyaya",
+    "notes": "",
+    "monthData": [],
+    "monthlyEarnings": {}
+  }
 ]
