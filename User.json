@@ -1,33 +1,5 @@
 [
   {
-    "userId": "100000",
-    "password": "005",
-    "firstname": "Mongo",
-    "lastname": "DB",
-    "name": "Mongo DB",
-    "factory": "Andaradeniya",
-    "registered": "2025-04-25T07:38:01.513Z",
-    "birthday": "2025-04-05",
-    "language": "English",
-    "role": "worker",
-    "contactNumber": "0714593031",
-    "address": "112/1 Andaradeniya/deniyaya",
-    "notes": "",
-    "monthData": [
-      {
-        "month": "April",
-        "days": [
-          {
-            "day": "25",
-            "amount": "10",
-            "time": "14:12:13"
-          }
-        ]
-      }
-    ],
-    "monthlyEarnings": {}
-  },
-  {
     "userId": "a",
     "password": "a",
     "firstname": "Nadishan",
