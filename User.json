@@ -32,5 +32,22 @@
     "notes": "",
     "monthData": [],
     "monthlyEarnings": {}
+  },
+  {
+    "userId": "100000",
+    "password": "1",
+    "firstname": "1",
+    "lastname": "1",
+    "name": "1 1",
+    "factory": "1",
+    "registered": "2025-04-25T05:36:58.994Z",
+    "birthday": "1111-11-11",
+    "language": "English",
+    "role": "worker",
+    "contactNumber": "1",
+    "address": "112/1 Andaradeniya/deniyaya",
+    "notes": "",
+    "monthData": [],
+    "monthlyEarnings": {}
   }
 ]
