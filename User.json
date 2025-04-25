@@ -54,5 +54,22 @@
       }
     ],
     "monthlyEarnings": {}
+  },
+  {
+    "userId": "5054",
+    "password": "5054",
+    "firstname": "Wimal",
+    "lastname": "Danthanarayana",
+    "name": "Wimal Danthanarayana",
+    "factory": "Andaradeniya",
+    "registered": "2025-04-25T12:44:41.904Z",
+    "birthday": "1963-10-15",
+    "language": "Sinhala",
+    "role": "worker",
+    "contactNumber": "0714593031",
+    "address": "112/1 Andaradeniya/Deniyaya",
+    "notes": "",
+    "monthData": [],
+    "monthlyEarnings": {}
   }
 ]
