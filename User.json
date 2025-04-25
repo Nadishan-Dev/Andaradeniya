@@ -32,5 +32,22 @@
     "notes": "",
     "monthData": [],
     "monthlyEarnings": {}
+  },
+  {
+    "userId": "8150",
+    "password": "0000",
+    "firstname": "abc",
+    "lastname": "def",
+    "name": "abc def",
+    "factory": "Andaradeniya",
+    "registered": "2025-04-25T06:46:03.264Z",
+    "birthday": "2025-04-12",
+    "language": "English",
+    "role": "worker",
+    "contactNumber": "f",
+    "address": "f",
+    "notes": "f",
+    "monthData": [],
+    "monthlyEarnings": {}
   }
 ]
