@@ -13,7 +13,15 @@
     "contactNumber": "aaaaaa",
     "address": "112/1 Andaradeniya/deniyaya",
     "notes": "",
-    "monthData": [],
+    "monthData": [
+      {
+        "month": "January",
+        "days": [
+          { "day": "01", "amount": "10 KG" },
+          { "day": "02", "amount": "8 KG" }
+        ]
+      }
+    ],
     "monthlyEarnings": {}
   },
   {
