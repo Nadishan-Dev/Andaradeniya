@@ -15,5 +15,22 @@
     "notes": "f",
     "monthData": [],
     "monthlyEarnings": {}
+  },
+  {
+    "userId": "nadiya",
+    "password": "aaa",
+    "firstname": "Nadishan",
+    "lastname": "000000000",
+    "name": "Nadishan 000000000",
+    "factory": "Andaradeniya",
+    "registered": "2025-04-25T06:51:30.641Z",
+    "birthday": "2025-04-22",
+    "language": "English",
+    "role": "worker",
+    "contactNumber": "aaaaaa",
+    "address": "112/1 Andaradeniya/deniyaya",
+    "notes": "",
+    "monthData": [],
+    "monthlyEarnings": {}
   }
 ]
