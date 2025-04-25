@@ -69,7 +69,18 @@
     "contactNumber": "0714593031",
     "address": "112/1 Andaradeniya/Deniyaya",
     "notes": "",
-    "monthData": [],
+    "monthData": [
+      {
+        "month": "April",
+        "days": [
+          {
+            "day": "24",
+            "amount": "15",
+            "time": "18:19:06"
+          }
+        ]
+      }
+    ],
     "monthlyEarnings": {}
   }
 ]
