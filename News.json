@@ -1,0 +1,71 @@
+[
+  {
+    "id": "1",
+    "en": {
+      "title": "Technology Breakthrough: New Solar Cell Efficiency Record",
+      "summary": "Scientists have developed a new type of solar cell that achieves 39% efficiency, breaking previous records and potentially lowering the cost of solar energy worldwide.",
+      "content": "Researchers at the National Renewable Energy Laboratory have announced a major breakthrough in solar cell technology. The new perovskite-silicon tandem cells have reached an efficiency of 39.2%, shattering the previous record of 33.7%. This development could significantly reduce the cost of solar energy and accelerate the transition to renewable energy sources. The team expects the technology to be commercially available within the next two years.",
+      "category": "Technology",
+      "publishedAt": "2025-04-20T09:30:00Z",
+      "source": "Science Daily",
+      "url": "https://example.com/tech-breakthrough",
+      "imageUrl": "/api/placeholder/800/600"
+    },
+    "sin": {
+      "title": "තාක්ෂණික පිම්ම: නව සූර්ය කෝෂ කාර්යක්ෂමතා වාර්තාව",
+      "summary": "විද්‍යාඥයින් විසින් 39% ක කාර්යක්ෂමතාවයක් ලබා ගන්නා නව වර්ගයේ සූර්ය කෝෂයක් සංවර්ධනය කර ඇත, පෙර වාර්තා බිඳ දමමින් සහ ලොව පුරා සූර්ය බලශක්ති පිරිවැය අඩු කිරීමට හැකියාව ඇත.",
+      "content": "ජාතික පුනර්ජනනීය බලශක්ති රසායනාගාරයේ පර්යේෂකයින් සූර්ය කෝෂ තාක්ෂණයේ ප්‍රධාන පිම්මක් ප්‍රකාශයට පත් කර ඇත. නව පෙරෝව්ස්කයිට්-සිලිකන් ටැන්ඩම් සෙල් 39.2% ක කාර්යක්ෂමතාවයක් ලබා ඇත, පෙර වාර්තාව වූ 33.7% බිඳ දමමින්. මෙම සංවර්ධනය සූර්ය බලශක්ති පිරිවැය සැලකිය යුතු ලෙස අඩු කර පුනර්ජනනීය බලශක්ති ප්‍රභවයන් වෙත සංක්‍රමණය වීම වේගවත් කළ හැකිය. කණ්ඩායම බලාපොරොත්තු වන්නේ තාක්ෂණය ඊළඟ වසර දෙක තුළ වාණිජමය වශයෙන් ලබාගත හැකි වනු ඇති බවයි.",
+      "category": "තාක්ෂණය",
+      "publishedAt": "2025-04-20T09:30:00Z",
+      "source": "සයන්ස් ඩේලි",
+      "url": "https://example.com/tech-breakthrough",
+      "imageUrl": "/api/placeholder/800/600"
+    }
+  },
+  {
+    "id": "2",
+    "en": {
+      "title": "Global Economy Shows Signs of Recovery",
+      "summary": "After a challenging period, global markets are showing positive indicators with growth in multiple sectors and reduced inflation rates.",
+      "content": "Economic analysts are reporting encouraging signs of recovery in the global economy. Stock markets across Asia, Europe, and the Americas have shown consistent growth over the past quarter, while inflation rates have begun to stabilize in most major economies. The International Monetary Fund has revised its growth projections upward, citing improved consumer confidence and supply chain resilience. However, experts caution that recovery remains uneven across different regions and continued policy support may be necessary.",
+      "category": "Finance",
+      "publishedAt": "2025-04-22T14:15:00Z",
+      "source": "Financial Times",
+      "url": "https://example.com/economy-recovery",
+      "imageUrl": "/api/placeholder/800/600"
+    },
+    "sin": {
+      "title": "ගෝලීය ආර්ථිකය යථා තත්ත්වයට පත්වීමේ සලකුණු පෙන්වයි",
+      "summary": "අභියෝගාත්මක කාලයකින් පසු, ගෝලීය වෙළඳපොලවල් විවිධ අංශවල වර්ධනය සහ අඩු උද්ධමන අනුපාත සමඟ ධනාත්මක දර්ශක පෙන්නුම් කරයි.",
+      "content": "ආර්ථික විශ්ලේෂකයින් ගෝලීය ආර්ථිකයේ යථා තත්ත්වයට පත්වීම පිළිබඳ දිරිගැන්වෙන සලකුණු වාර්තා කරයි. ආසියාව, යුරෝපය සහ ඇමරිකාව පුරා කොටස් වෙළඳපොලවල් පසුගිය කාර්තුව පුරා අඛණ්ඩ වර්ධනයක් පෙන්නුම් කර ඇති අතර, උද්ධමන අනුපාත බොහෝ ප්‍රධාන ආර්ථිකයන්හි ස්ථාවර වීමට පටන් ගෙන ඇත. ජාත්‍යන්තර මූල්‍ය අරමුදල එහි වර්ධන පුරෝකථන ඉහළට සංශෝධනය කර ඇති අතර, වැඩිදියුණු කළ පාරිභෝගික විශ්වාසය සහ සැපයුම් දාම ප්‍රත්‍යාස්ථතාව උපුටා දක්වයි. කෙසේ වෙතත්, විශේෂඥයින් අවධාරණය කරන්නේ යථා තත්ත්වයට පත්වීම විවිධ කලාප හරහා අසමාන වන අතර අඛණ්ඩ ප්‍රතිපත්ති සහාය අවශ්‍ය විය හැකි බවයි.",
+      "category": "මූල්‍ය",
+      "publishedAt": "2025-04-22T14:15:00Z",
+      "source": "ෆයිනෑන්ෂල් ටයිම්ස්",
+      "url": "https://example.com/economy-recovery",
+      "imageUrl": "/api/placeholder/800/600"
+    }
+  },
+  {
+    "id": "3",
+    "en": {
+      "title": "Health Alert: New Vaccine Shows Promise Against Multiple Viruses",
+      "summary": "A revolutionary vaccine technology has demonstrated effectiveness against multiple respiratory viruses in a single shot, according to recent clinical trials.",
+      "content": "Medical researchers have announced promising results from clinical trials of a new vaccine technology that can target multiple respiratory viruses simultaneously. The novel approach uses messenger RNA to train the immune system to recognize common proteins across different viruses, including influenza, respiratory syncytial virus (RSV), and several coronavirus variants. In Phase II trials, the vaccine showed 87% efficacy against symptomatic infection. If approved, this could significantly simplify vaccination schedules and improve public health outcomes during respiratory disease seasons.",
+      "category": "Health",
+      "publishedAt": "2025-04-25T11:45:00Z",
+      "source": "Medical Journal",
+      "url": "https://example.com/health-vaccine",
+      "imageUrl": "/api/placeholder/800/600"
+    },
+    "sin": {
+      "title": "සෞඛ්‍ය ඇඟවීම: නව එන්නත බහුවිධ වෛරස වලට එරෙහිව පොරොන්දු පෙන්වයි",
+      "summary": "මෑත කාලීන සායනික අත්හදා බැලීම් වලට අනුව, විප්ලවකාරී එන්නත් තාක්ෂණයක් තනි ශොට් එකක දී බහුවිධ ශ්වසන වෛරස වලට එරෙහිව සඵලතාවය පෙන්වා ඇත.",
+      "content": "වෛද්‍ය පර්යේෂකයින් විසින් එකවර බහුවිධ ශ්වසන වෛරස ඉලක්ක කළ හැකි නව එන්නත් තාක්ෂණයක සායනික අත්හදා බැලීම් වලින් පොරොන්දු වන ප්‍රතිඵල නිවේදනය කර ඇත. මෙම නව ප්‍රවේශය මගින් ප්‍රතිශක්තිකරණ පද්ධතිය පුහුණු කිරීම සඳහා මෙසෙන්ජර් RNA භාවිතා කරමින් ඉන්ෆ්ලුවෙන්සා, ශ්වසන සින්සිටියල් වෛරසය (RSV) සහ කොරෝනා වෛරස ප්‍රභේද කිහිපයක් ඇතුළුව විවිධ වෛරස හරහා පොදු ප්‍රෝටීන හඳුනා ගැනීමට ප්‍රතිශක්තිකරණ පද්ධතිය පුහුණු කරයි. අදියර II අත්හදා බැලීම්වලදී, එන්නත රෝග ලක්ෂණ ආසාදනයට එරෙහිව 87% ක ඵලදායිතාවක් පෙන්වීය. අනුමත කළහොත්, මෙය එන්නත් කාලසටහන් සැලකිය යුතු ලෙස සරල කර ශ්වසන රෝග සමයේදී මහජන සෞඛ්‍ය ප්‍රතිඵල වැඩිදියුණු කළ හැකිය.",
+      "category": "සෞඛ්‍යය",
+      "publishedAt": "2025-04-25T11:45:00Z",
+      "source": "මෙඩිකල් ජර්නල්",
+      "url": "https://example.com/health-vaccine",
+      "imageUrl": "/api/placeholder/800/600"
+    }
+  }
+]
